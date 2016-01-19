@@ -64,7 +64,6 @@ DBS14	Agios Nikolaos, Greece	40.2504	23.69257	fruit	wild	mosaic	This study	Tilak
 DBV25	Sonim, Portugal	41.71084	-7.22885	figbark	unknown	mosaic	This study	Almeida et al. 2015
 DBVPG10100	Subasio, Italy	43.06721	12.65246	bark	nature reserve	European	unknown	Almeida et al. 2015
 DBVPG1340	Wageningen, The Netherlands	51.9867	5.663492	Soil	agricultural	wine	Capriotti, 1954	Tilakaratna, unpub.
-DBVPG1373	Wageningen, The Netherlands	52.18943	5.334302	soil	unknown	European	Capriotti, 1954	Naumov et al, 1997
 DBVPG1788	Turku, Finland	60.46076	22.26969	Soil	unknown	wine	Capriotti, 1957	Almeida, unpub.
 DBVPG1790	Kuopio, Finland	62.5333	27.4042	Soil	unknown	unknown	Naumov et al. 1992	NA
 DBVPG1791	Viiki, Helsinki	60.14	25.01	Soil	agricultural college	unknown	Capriotti, 1957	Naumov et al. 1992
@@ -108,7 +107,6 @@ FJ9	Wuyi, Fujian, China	27.90731	117.8936	bark	wild	CHNI	Wang et al. 2012	Wang e
 G205	Dedeso, Ghana	7.087089	-0.27311	fermentation	fermentation	mosaic	unknown	Cromie et al. 2013
 G86	Dedeso, Ghana	7.087089	-0.27311	fermentation	fermentation	mosaic	unknown	Cromie et al. 2013
 G89	Dedeso, Ghana	7.087089	-0.27311	fermentation	fermentation	mosaic	unknown	Cromie et al. 2013
-GMA0401	Unknown, Sri lanka	6.5459	79.5316	fermentation	fermentation	unknown	Perera et al. 1978	NA
 GU213449.1	University of Auckland, NZ	-36.506	174.4616	bark	unknown	wine	Zhang et al. 2010	Zhang et al. 2010
 HLJ1	Jingbo Lake, China	43.86462	128.9128	bark	unknown	CHNIV	Wang et al. 2012	Wang et al. 2012
 HLJ2	Jingbo Lake, China	43.86462	128.9128	bark	unknown	CHNVII	Wang et al. 2012	Wang et al. 2012
@@ -191,7 +189,6 @@ KEH03066	Tyson, MO, U.S.A.	38.525	-90.5625	bark	wild	mosaic	Hyma and Fay, 2013	C
 LAS-PA	Seattle, Washington, U.S.A.	47.60513	-122.326	fruit	unknown	mosaic	Cromie et al. 2013	Cromie et al. 2013
 LAS-PR	Seattle, Washington, U.S.A.	47.60513	-122.326	flower	unknown	N. America 2	Cromie et al. 2013	Cromie et al. 2013
 NA	Ibadan, Nigeria	7.447036	3.89622	bark	laboratory gardens	unknown	Faparusi, 1973	NA
-NA	Cotonou, Benin	6.22	2.26	fermentation	fermentation	unknown	Hounhouigan et al. 1993	NA
 NC-02	Unspecified, NC, U.S.A.	35.6264	-78.7212	bark	unknown	N. America 2	Cohen, unpub.	Cromie et al. 2013
 NRRLY-12717	Nepal	28.21358	84.20816	food	fermentation	mosaic	unknown	Cromie et al. 2013
 NRRLYB210	Unknown, Costa Rica	10.02531	-83.8724	fruit	unknown	mosaic	unknown	Cromie et al. 2013
@@ -272,7 +269,6 @@ Y9r	Java, Indonesia	-7.32819	110.6932	food	unknown	Far Eastern	unknown	Cromie et
 YB-1952	Unknown, French Guyana	3.933238	-53.0766	NA	unknown	mosaic	unknown	Cromie et al. 2013
 YB-427	Unknown, French Guyana	10.44912	-61.2454	fermentation	fermentation	mosaic	unknown	Cromie et al. 2013
 YB-432	Unknown, Cuba	21.76575	-78.5196	fruit	unknown	human 4	unknown	Cromie et al. 2013
-YJM 1383	unknown, Phillipines	14.35	-121.02	fruit	wild	mosaic	unknown	Almeida et al, unpub.
 YN2	Jinghong, Yunnan, China	22.05271	100.8942	fruit	unknown	sake	Wang et al. 2012	Wang et al. 2012
 YPS1000	New Jersey, U.S.A.	40.38821	-74.4056	bark	unknown	mosaic	Fay and Benavides, 2005	Almeida, 2001
 YPS1009	New Jersey, U.S.A.	40.38821	-74.4056	bark	unknown	N. America 2	Fay and Benavides, 2005	Cromie et al. 2013
